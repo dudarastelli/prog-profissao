@@ -1,0 +1,12 @@
+.imagem {
+    width: 500px;
+    display: flex;
+    padding: 5em 45em 5em;
+
+
+}
+
+.titulo {
+    font-size: 140px;
+    text-align: center;
+}
