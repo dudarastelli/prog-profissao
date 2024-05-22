@@ -1,12 +1,9 @@
-.imagem {
-    width: 500px;
-    display: flex;
-    padding: 5em 45em 5em;
-
-
+body {
+    text-align: center;
+    font-size: 60px;
+    background-image: linear-gradient(to bottom,rgb(241, 241, 136),rgb(140, 238, 140));
 }
 
-.titulo {
-    font-size: 140px;
-    text-align: center;
+.texto {
+    font-size: smaller;
 }
